@@ -4,5 +4,8 @@
 	<groupId>org.silentsoft</groupId>
 	<artifactId>test-github-dependency-graph-origin</artifactId>
 	<version>1.2.3</version>
-	<url>https://github.com/silentsoft/test-github-dependency-graph-origin</url>
+	
+	<scm>
+		<url>https://github.com/silentsoft/test-github-dependency-graph-origin</url>
+	</scm>
 </project>
