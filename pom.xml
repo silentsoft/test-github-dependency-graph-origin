@@ -3,9 +3,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.silentsoft</groupId>
 	<artifactId>test-github-dependency-graph-origin</artifactId>
-	<version>1.2.8</version>
+	<version>1.2.9</version>
 	
 	<name>test-github-dependency-graph-origin</name>
 	<description>test-description</description>
 	<url>https://github.com/silentsoft/test-github-dependency-graph-origin</url>
+	
+	<scm>
+		<url>https://github.com/silentsoft/test-github-dependency-graph-origin.git</url>
+		<connection>scm:git:git@github.com:silentsoft/test-github-dependency-graph-origin.git</connection>
+		<developerConnection>scm:git:git@github.com:silentsoft/test-github-dependency-graph-origin.git</developerConnection>
+	</scm>
 </project>
