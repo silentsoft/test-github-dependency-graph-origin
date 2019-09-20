@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.silentsoft</groupId>
 	<artifactId>test-github-dependency-graph-origin</artifactId>
-	<version>1.2.6</version>
+	<version>1.2.7</version>
 	
 	<scm>
-		<url>https://github.com/silentsoft/test-github-dependency-graph-origin</url>
+		<url>https://github.com/silentsoft/test-github-dependency-graph-origin.git</url>
 		<connection>scm:git:https://github.com/silentsoft/test-github-dependency-graph-origin.git</connection>
 		<developerConnection>scm:git:https://github.com/silentsoft/test-github-dependency-graph-origin.git</developerConnection>
 	</scm>
