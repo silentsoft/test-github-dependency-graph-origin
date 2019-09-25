@@ -3,15 +3,17 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.silentsoft</groupId>
 	<artifactId>test-github-dependency-graph-origin</artifactId>
-	<version>1.2.9</version>
-	
-	<name>test-github-dependency-graph-origin</name>
-	<description>test-description</description>
-	<url>https://github.com/silentsoft/test-github-dependency-graph-origin</url>
-	
+	<version>1.2.10</version>
+
+	<licenses>
+		<license>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
 	<scm>
-		<url>https://github.com/silentsoft/test-github-dependency-graph-origin.git</url>
-		<connection>scm:git:git@github.com:silentsoft/test-github-dependency-graph-origin.git</connection>
-		<developerConnection>scm:git:git@github.com:silentsoft/test-github-dependency-graph-origin.git</developerConnection>
+		<url>https://github.com/silentsoft/test-github-dependency-graph-origin</url>
 	</scm>
 </project>
